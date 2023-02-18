@@ -6,6 +6,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./images/screenshot.png)
 
+### [Live Demo](https://essequie1.github.io/frontend-mentor__qr-code-component/)
+
 ### Built with
 
 - Semantic HTML5 markup
